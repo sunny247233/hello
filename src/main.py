@@ -35,6 +35,6 @@ if __name__ == '__main__':
     print(bmi)
     health_check(bmi)
     # print_hi('PyCharm')
-
+    print('test git')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 help(list)
