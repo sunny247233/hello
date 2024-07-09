@@ -20,4 +20,5 @@
   - syntax
     - function (local variable,global variable)
   - numpy & data structure
-  p
+  - git & github (合并冲突 回退 rebase 分支管理)
+
