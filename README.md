@@ -10,8 +10,7 @@
 - pip, virtual environment
 - python
   - syntax
-    - datatime
-    - parameter
+    - datatime, parameter...
   - data type
   - numpy
 
@@ -19,6 +18,7 @@
 - python
   - syntax
     - function (local variable,global variable)
+    - exception
   - numpy & data structure
   - git & github (合并冲突 回退 rebase 分支管理)
 
