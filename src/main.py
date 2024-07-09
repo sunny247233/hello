@@ -14,13 +14,13 @@ def calculate_bmi(height,weight) -> float:
     bmi=weight/(height**2)
     return bmi
 
-def health_check(bmi) -> ():
+def health_check(bmi) -> str:
     if 24.9 >= bmi >= 18.5:
-        print('不错，请保持')
+        return ('不错，请保持')
     elif bmi > 24.9:
-        print('减肥啦')
+        return('减肥啦')
     else:
-        print('加油吃吧')
+        return('加油吃吧')
 
 def input_data() -> (float, float):
     height = float(input('height'))
@@ -33,8 +33,6 @@ if __name__ == '__main__':
     height, weight = input_data()
     bmi = calculate_bmi(height,weight)
     print(bmi)
-    health_check(bmi)
+    print(health_check(bmi))
     # print_hi('PyCharm')
-    print('test git')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-help(list)

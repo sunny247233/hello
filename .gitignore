@@ -1,1 +1,5 @@
-file2.txt
+/*.pyc
+/*.pyo
+build/
+dist/
+.idea/
