@@ -7,18 +7,18 @@
 - Git
 - Github
 - Unit test
-- pip, virtual environment
+- pip, virtual environment(pycharm选择虚拟环境)
 - python
   - syntax
     - datatime, parameter...
-  - data type
-  - numpy
+  - data type*
+  - numpy*图形
 
 ## To do
 - python
   - syntax
-    - function (local variable,global variable)
-    - exception
+    - function (/local variable,global variable)
+    - exception*
   - numpy & data structure
   - git & github (合并冲突 回退 rebase 分支管理)
 
